@@ -1,0 +1,6 @@
+Program
+begin
+Count:=29.31+(Number-71);
+Number:=Account*10.99;
+Result:=Number+Account;
+end

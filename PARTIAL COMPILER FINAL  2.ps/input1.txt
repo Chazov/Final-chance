@@ -1,0 +1,10 @@
+Program
+begin
+Real multiple, res;
+number = 23;
+Read (num);
+multiple = 32 + (number - num);
+number = multiple / 78.99;
+res = number + account;
+Write (res);
+End
